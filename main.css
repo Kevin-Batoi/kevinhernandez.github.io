@@ -1,1 +1,42 @@
+h1 {
+    text-align: center;
+    color: rgb(220, 159, 85);
+}
 
+body {
+    background-color: beige;
+
+}
+
+header {
+    text-align: center;
+    color: rgb(223, 155, 71);
+}
+
+article>header {
+    font-weight: bold;
+}
+
+img {
+	display: block;
+	margin: 0 auto; 
+	border: 2px solid rgb(220, 159, 85);
+	border-radius: 20%;
+	height: 300px;
+	width: 400px;
+    margin-bottom: 20px;
+}
+
+
+article p {
+    text-align: justify;
+    margin-left: 450px;
+    width: 600px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: right;
+}
